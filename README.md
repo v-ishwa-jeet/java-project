@@ -1,3 +1,2 @@
 # java-project
-Assignment for NIIT training 
-          ASSIGNMENT
+Assignment for NIIT training
